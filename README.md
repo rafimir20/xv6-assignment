@@ -1,6 +1,4 @@
-#Assignment 2, Operation System Course 114, State University Jakarta
-
-Operating System, Assigment 1. 
+# Assignment 2, Operation System Course 114, State University Jakarta
 
 
 * Name: Muhammad Raffi Athallah
