@@ -1,5 +1,4 @@
-# xv6-kernel
-# System-Calls
+Assignment 2, Operation System Course 114, State University Jakarta
 
 Operating System, Assigment 1. 
 
